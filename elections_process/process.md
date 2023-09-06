@@ -2,7 +2,7 @@
 
 ## 1] Call for elections shepherds
 
-The shepherd(s) of 20XX-1 JDC election should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) in early December 20XX, asking for volunteers to shepherd the 20XX election. Any JDC can participate in administering the JDC election, and the 
+The shepherd(s) of 20XX-1 JDC election should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) in early December 20XX, asking for volunteers to shepherd the 20XX election. Any JDC can participate in administering the JDC election, and how the work is split is let to the discretion of the organizers.
 
 ## 2] Nominations
 
@@ -15,11 +15,13 @@ The nominations for 20XX JDC should start in early January 20XX+1. The shepherd(
 
 The elections shepherd(s) should not hesitate to send some reminders during the nomination phase.
 
+Per Jupyter governance, each newly inducted member will be awarded a nominal purse of $500 per awardee, subject to budgetary constraints, in recognition for service to the community. The shepherd(s) is to send an email to the [Executive Council](jupyter-executive-council@googlegroups.com) requesting availability of budget for this round of prizes.
+
 ## 3] Vote
 
 Once the nomination phase is over, the vote can start. There are two cases:
 
-- if the number of nominees does not exceed the number of available awards, a simple form with "Yes / No / Abstain" options for each nominee can be used.
+- if the number of nominees does not exceed the number of available awards, a simple form with "Yes / No / Abstain" options for each nominee can be used. `Abstain` is ignored, so the only requirement for a nominee to become a JDC is to get more `Yes` than `No` votes.
 - if the number of nominees exceeds the number of available awards, a Condorcet ranked vote should be used. There are many Condorcet voting tools available online and this guide does not promote one over another.
 
 The shepherd(s) should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) with the following elements:
@@ -32,24 +34,25 @@ Again, the elections shepherd(s) should not hesitate to send some reminders duri
 ## 4] Winners confirmation
 
 When the vote is over, the shepherds should communicate the list of winners the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com). An email should also be sent to the [Jupyter Community Building Committee](jupyter-community-building-committee@googlegroups.com) and to people in charge of Resources at [NumFocus](https://numfocus.org/community/people), to keep them informed about the progress of the JDC grant process.
-The JDC awards carries a prize whose amount should be voted by the Executive Council before asking the winners whether they accept the award. Traditionnaly,
-the person who has nominated a winner sends him an email asking for confirmation, but this can be done by any Distinguished Contributors. A typical email would be (for the most lazy or busy of us ;)):
+Traditionally, the person who has nominated a winner sends him an email asking for confirmation, but this can be done by any Distinguished Contributors. A typical email would be (for the most lazy or busy of us ;)):
 
-> Dear XXX,
->
-> On behalf of the Jupyter Distinguished Contributors, I am happy to share that you have been selected to receive the award of Jupyter Distinguished Contributor! Congratulations and many thanks for the significant impact you have made in our community. The time, energy, and effort you have so generously given is highly appreciated, welcomed, and celebrated.
-> 
-> As you may recall, Project Jupyter established a "Distinguished Contributor" award [1] to recognize the work of contributors that is sustained over at least two years and is substantial in quality / quantity. This award carries a prize of $XXX USD and we will be communicating with you shortly with further details related to this prize.
->
-> Please respond to this message with the following information:
->
-> * Whether or not you accept the award
-> * Your name as you wish for it to appear and a photo for the jupyter.org website (https://jupyter.org/about#distinguished-contributors)
-> * Optionally, your Twitter handle, Mastodon handle, GitHub handle, LinkedIn page, and/or your personal web page url, to appear next to your name on the website
->
-> Thanks, and congratulations again!
->
-> [1] https://jupyter.org/governance/distinguished_contributors.html
+```
+Dear XXX,
+
+On behalf of the Jupyter Distinguished Contributors, I am happy to share that you have been selected to receive the award of Jupyter Distinguished Contributor! Congratulations and many thanks for the significant impact you have made in our community. The time, energy, and effort you have so generously given is highly appreciated, welcomed, and celebrated.
+ 
+As you may recall, Project Jupyter established a "Distinguished Contributor" award [1] to recognize the work of contributors that is sustained over at least two years and is substantial in quality / quantity. This award carries a prize of $XXX USD and we will be communicating with you shortly with further details related to this prize.
+
+Please respond to this message with the following information:
+
+* Whether or not you accept the award
+* Your name as you wish for it to appear and a photo for the jupyter.org website (https://jupyter.org/about#distinguished-contributors)
+* Optionally, your Twitter handle, Mastodon handle, GitHub handle, LinkedIn page, and/or your personal web page url, to appear next to your name on the website
+
+Thanks, and congratulations again!
+
+[1] https://jupyter.org/governance/distinguished_contributors.html
+```
 
 Informations about the winners (names, photos, whether they accept the award) can be tracked on the Google Spreadsheet shared with the JDC Google group.
 
