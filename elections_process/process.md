@@ -2,7 +2,7 @@
 
 ## 1] Call for elections shepherds
 
-The shepherd(s) of 20XX-1 JDC election should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) in early December 20XX, asking for volunteers to shepherd the 20XX election. Any JDC can participate in administering the JDC election, and how the work is split is let to the discretion of the organizers.
+The shepherd(s) of 20XX-1 JDC election should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) in early December 20XX, asking for volunteers to shepherd the 20XX election. Any JDC can participate in administering the JDC election, and how the work is split is left to the discretion of the organizers.
 
 ## 2] Nominations
 
