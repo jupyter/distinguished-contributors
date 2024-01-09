@@ -34,7 +34,7 @@ Again, the elections shepherd(s) should not hesitate to send some reminders duri
 ## 4] Winners confirmation
 
 When the vote is over, the shepherds should communicate the list of winners to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com). An email should also be sent to the [Jupyter Community Building Committee](jupyter-community-building-committee@googlegroups.com) and to people in charge of Resources at [NumFocus](https://numfocus.org/community/people), to keep them informed about the progress of the JDC grant process.
-Traditionally, the person who has nominated a winner sends him an email asking for confirmation, but this can be done by any Distinguished Contributors. A typical email would be (for the most lazy or busy of us ;)):
+Traditionally, the person who has nominated a winner sends them an email asking for confirmation, but this can be done by any Distinguished Contributor. A typical email would be (for the most lazy or busy of us ;)):
 
 ```
 Dear XXX,
