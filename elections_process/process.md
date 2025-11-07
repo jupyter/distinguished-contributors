@@ -8,7 +8,7 @@ The shepherd(s) of 20XX-1 JDC election should send an email to the [JDC mailing 
 
 The nominations for 20XX JDC should start in early January 20XX+1. The shepherd(s) should send an email to the [JDC mailing list](jupyter-distinguished-contributors@googlegroups.com) with the following elements:
 
-- Number of available awards (currently 10 per year)
+- Number of available awards (currently 5 per year)
 - A link to the form used for nominating someone. A Google Form template has been shared with the JDC Google groups, you can duplicate it (please do not use it directly so it can be reused for the next elections); you can also create a new form from [this document](https://github.com/jupyter/distinguished-contributors/blob/main/nomination-forms/2020.md)
 - A reminder of the criteria for [Distinguished Contributor awards](https://jupyter.org/governance/distinguished_contributors.html#criteria-for-nominating-new-distinguished-contributors). The 2-year activity requirement should be as of December 31, 20XX.
 - A deadline for the nomination phase; this phase should not exceed 2 or 3 weeks.
